@@ -48,7 +48,7 @@ To create a powerful dashboard that:
 - ⏱ Saves time and resources with automated, easy-to-navigate visual analysis.
 
 
-## DATA SOURCE-
+## DATA SOURCE- https://github.com/navpreetdhoat/SPOTIFY-DASHBOARD-/blob/main/spotifydataset.csv
 
 ## 🔗 Project Access
 
