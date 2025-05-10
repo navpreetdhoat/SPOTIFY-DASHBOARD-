@@ -47,10 +47,8 @@ To create a powerful dashboard that:
 - 💡 Enables strategic content planning based on acoustic and popularity trends.
 - ⏱ Saves time and resources with automated, easy-to-navigate visual analysis.
 
----
 
-## 📊 Sample Visuals
-
+## DATA SOURCE-
 
 ## 🔗 Project Access
 
@@ -63,3 +61,5 @@ Hi, I'm Navpreet, a data enthusiast with 2.5 years of experience as a Data Analy
 
 
 ## 📬 Contact ME- Navpreetkaurdhoat@gmail.com
+## 📊 Sample Visuals
+https://github.com/navpreetdhoat/SPOTIFY-DASHBOARD-/blob/main/Screenshot%202025-05-11%20021553.png
