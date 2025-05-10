@@ -54,7 +54,7 @@ To create a powerful dashboard that:
 
 ## 🔗 Project Access
 
-- 📁 **Power BI File:** [Download `.pbix` file](https://onedrive.live.com/your-link-here)
+- 📁 **Power BI File:** https://github.com/navpreetdhoat/SPOTIFY-DASHBOARD-/blob/main/spotify%20artist%20dashboard.pbix
 
 
 ## 🙋‍♀️ About the Creator
